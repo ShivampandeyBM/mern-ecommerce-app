@@ -1,0 +1,4 @@
+node_modules
+.env
+Ecommerce-Frontend/node_modules/
+Ecommerce-Frontend/.env
